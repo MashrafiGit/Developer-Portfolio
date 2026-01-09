@@ -20,10 +20,10 @@ It is a personal portfolio webpage that showcases a developer’s profile, skill
 - Clean and structured layout  
 
 ## Project Structure
-📁 developer-portfolio
-├── index.html
-├── styles/
-│   └── portfolio.css
+📁 developer-portfolio <br/>
+├── index.html <br/>
+├── styles/ <br/>
+│   └── portfolio.css <br/>
 └── images/ 
 
 ## Usage
