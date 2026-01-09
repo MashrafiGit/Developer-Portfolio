@@ -23,7 +23,7 @@ It is a personal portfolio webpage that showcases a developer’s profile, skill
 📁 developer-portfolio<br/>
 ├── index.html<br/>
 ├── styles/<br/>
- │      └── portfolio.css<br/>
+    └── portfolio.css<br/>
 └── images/<br/>
 
 ## Usage
