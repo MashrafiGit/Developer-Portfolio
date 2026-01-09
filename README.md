@@ -20,11 +20,11 @@ It is a personal portfolio webpage that showcases a developer’s profile, skill
 - Clean and structured layout  
 
 ## Project Structure
-📁 developer-portfolio <br/>
-├── index.html <br/>
-├── styles/ <br/>
-│   └── portfolio.css <br/>
-└── images/ 
+📁 developer-portfolio<br/>
+├── index.html<br/>
+├── styles/<br/>
+│      └── portfolio.css<br/>
+└── images/<br/>
 
 ## Usage
 Open `index.html` in any modern web browser.
