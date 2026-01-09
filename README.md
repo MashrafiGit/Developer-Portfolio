@@ -1,8 +1,9 @@
 # Web Developer Portfolio 💼
 
+🔗 Live Link: https://developer-portfolio-one-pearl.vercel.app/
+
 This is my **first built website**, created using HTML and CSS.  
 It is a personal portfolio webpage that showcases a developer’s profile, skills, resume, and contact section with a clean and structured layout.
-
 
 ## Tech Stack
 - HTML5  
@@ -22,9 +23,8 @@ It is a personal portfolio webpage that showcases a developer’s profile, skill
 📁 developer-portfolio
 ├── index.html
 ├── styles/
-│ └── portfolio.css
-└── images/
-
+│   └── portfolio.css
+└── images/ 
 
 ## Usage
 Open `index.html` in any modern web browser.
