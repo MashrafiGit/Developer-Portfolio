@@ -33,4 +33,7 @@ Open `index.html` in any modern web browser.
 This project was built as a learning milestone to practice HTML and CSS fundamentals and to understand how a real-world portfolio website is structured.
 
 ## Notes
-This is a static frontend project. The contact form is not connected to any backend service.
+- This is a static frontend project
+- The layout is not fully responsive
+- Designed mainly for desktop view
+- No backend or JavaScript functionality is included
