@@ -42,7 +42,7 @@ This project was built as a learning milestone to practice HTML and CSS fundamen
 - Designed mainly for desktop view
 - No backend or JavaScript functionality is included
 
--
+--
 
 ✅ **Practice Project**  
 📌 **Frontend Only**  
