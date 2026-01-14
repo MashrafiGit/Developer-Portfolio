@@ -24,7 +24,7 @@ It is a personal portfolio webpage that showcases a developer’s profile, skill
 ├── index.html<br/>
 ├── styles/<br/>
 │ └── portfolio.css<br/>
-│── images/<br/>      
+├── images/<br/>      
 └── README.md<br/> 
 
 ## 🚀 Usage
